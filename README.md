@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Release][(https://github.com/lxcxjxhx/Resume-and-personal-achievements/releases)]
+[![Release][(https://github.com/lxcxjxhx/Resume-and-personal-achievements/releases)](https://github.com/lxcxjxhx/Resume-and-personal-achievements/releases)
 # RES-PJEXP Personal Achievement Portfolio
 
 ## 📁 Portfolio Overview
