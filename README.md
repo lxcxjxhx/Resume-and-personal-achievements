@@ -80,3 +80,147 @@ mindmap
 
 ## 🙏 致谢
 感谢所有团队成员、指导老师及支持机构的无私贡献。
+
+
+
+
+---
+
+
+
+# RES-PJEXP Personal Achievements Archive
+
+## 📁 Archive Overview
+RES-PJEXP is Qian Jiahong's personal archive of technical achievements and certificates, focusing on storing and showcasing learning outcomes, competition certificates, and technical certifications in fields such as cybersecurity, artificial intelligence, and healthcare. This archive is regularly updated to reflect the latest achievements and project progress.
+
+### Online Technical Profiles
+To better showcase my technical contributions and open-source projects, the following are links to my online platforms and a summary of their key content. These platforms reflect my exploration and contributions in security, AI, and related fields:
+
+- **PyPI Repository**: Focuses on security tools and AI-assisted libraries. Five open-source projects have been released and maintained: HOS-ME, BOS-HA, HOS-GREED, HOS-M2F, and hos-vortex, covering areas such as office automation, sign language recognition, lightweight AI security, document conversion, and red team penetration testing. [Visit PyPI page](https://pypi.org/user/security_hyacinth/)
+
+- **GitHub Repository**: The core code hosting platform, containing projects ranging from cybersecurity tools to AI experiments. Featured repositories include pinned projects: hos-app (a three-person team bootcamp front-end project showcasing web development skills); HOS-ALL (a five-person team AI + information security project participating in the Intel AI competition, implemented using Python). These projects emphasize teamwork and innovative practices. [Visit GitHub](https://github.com/lxcxjxhx)
+
+- **Hugging Face Model Library**: Sharing finely tuned AI models, focusing on information security, healthcare, and computer vision. [Visit Hugging Face](https://huggingface.co/lxcxjxhx)
+
+- **CSDN Blog**: The technical blog "Security Hyacinth," with over 700 articles published and 7 columns covering topics such as AI, information security, Web3.0, and operations and development. With over 12,000 likes and a Force Level of 5, this blog features curated columns including "Large Models + AIGC" and "Information Security CTF All Question Types & Solutions," continuously sharing cutting-edge technical insights and practices. [Visit Blog](https://security-hyacinth.blog.csdn.net/)
+
+## 📊 Achievements Showcase
+
+### Certifications
+
+- **Technical Certifications**: Multiple certifications, including Intel and Ctrip certificates.
+
+- **Competition Awards**: National/municipal innovation, entrepreneurship, and science popularization awards.
+
+- **Academic Certifications**: Passed CET-4 and CET-6.
+
+### Comprehensive Abilities
+
+- **Innovation and Entrepreneurship**: Participated in and won awards in innovation competitions, demonstrating leadership and creativity.
+
+- **Physical Education and Health**: Won awards in physical fitness competitions, reflecting well-rounded development.
+
+- **Science Popularization and Education**: Certificates for performance activities, highlighting educational contributions.
+
+## 💼 Technical Skills
+
+### Core Technology Areas
+
+- **Python Programming**: Applied to script development, data analysis, and AI model building.
+
+- **Web Development**: Covers front-end frameworks (React/Vue) and back-end services (Django/Flask).
+
+- **Cybersecurity**: Penetration testing, encryption algorithms, security auditing, and CTF practices.
+
+- **Artificial Intelligence**: Machine learning, deep learning, and natural language processing.
+
+- **Medical Data Analysis**: Bioinformatics tools and health data visualization (AI perspective).
+
+### Comprehensive Ability Map
+
+```mermaid
+mindmap
+
+root((Comprehensive Ability Map))
+
+Core Technologies
+
+Python Programming
+
+Data Analysis
+
+AI Model Building
+
+Script Automation
+
+Web Development
+
+Front-end Frameworks (React/Vue)
+
+Back-end Services (Django/Flask)
+
+Full-Stack Projects (HOS-app Example)
+
+Professional Fields
+
+Cybersecurity
+
+Penetration Testing
+
+Encryption Algorithms
+
+CTF Practice
+
+Platform Building (Heart Steel)
+
+Artificial Intelligence
+
+Machine Learning
+
+Deep Learning
+
+NLP Processing
+
+Project Applications (HOS-ALL)
+
+Medical AI Exploration
+
+Dialogue Systems
+
+Data Analysis
+
+Model Training (Non-Medical Majors)
+
+Comprehensive Qualities
+
+Academic Languages
+
+English CET-4/6
+
+Professional Certifications
+
+Innovation and Entrepreneurship
+
+Competition Awards
+
+Team Collaboration
+
+Sports Popularization
+
+Fitness Competitions
+
+Performance Activities
+
+Educational Contributions
+
+```
+
+## 📞 Contact Information
+
+- **File Owner**: Qian Jiahong
+
+- **Contact Information:** Mobile: 19921057118 | Email: aqfxz_zh@qq.com
+
+- **Content Overview:** Personal learning achievements and certificate archive
+
+## 🙏 Acknowledgements Thank you to all team members, instructors, and supporting institutions for their selfless contributions.
